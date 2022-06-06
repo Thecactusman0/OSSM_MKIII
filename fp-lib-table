@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "DW01A")(type "KiCad")(uri "/Users/nicholas/Downloads/DW01A")(options "")(descr ""))
+  (lib (name "FS8205A")(type "KiCad")(uri "/Users/nicholas/Downloads/FS8205A")(options "")(descr ""))
+  (lib (name "usb_footprint")(type "KiCad")(uri "/Users/nicholas/Downloads/tp4056-master/tp4056_kicad6_base/usb/usb_footprint.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "DW01A")(type "Legacy")(uri "/Users/nicholas/Downloads/DW01A/DW01A.lib")(options "")(descr ""))
+  (lib (name "FS8205A")(type "Legacy")(uri "/Users/nicholas/Downloads/FS8205A/FS8205A.lib")(options "")(descr ""))
+  (lib (name "tp4056")(type "KiCad")(uri "/Users/nicholas/Downloads/tp4056-master/tp4056_kicad6_base/symbol_lib/tp4056.kicad_sym")(options "")(descr ""))
+)
