@@ -128,6 +128,8 @@
       (net 6 "unconnected-(J1-Pad6)") (pinfunction "Pin_6") (pintype "passive") (tstamp 4ce2a95d-5985-45fd-bd02-5d30a8d6a882))
   )
 
+  (gr_line (start 142.9 97) (end 128.3 97) (layer "F.SilkS") (width 0.2) (tstamp 0f69aed3-f9ec-4086-8641-0a7688023743))
+  (gr_line (start 142.9 95) (end 128.3 95) (layer "F.SilkS") (width 0.2) (tstamp ff30fb6c-781e-4f80-a7ab-5e690453122a))
   (gr_line (start 143.2 94) (end 143.2 109) (layer "Edge.Cuts") (width 0.2) (tstamp 2bc2b121-5654-40ee-a8f7-ed22f5c674db))
   (gr_line (start 128 84) (end 143.2 84) (layer "Edge.Cuts") (width 0.2) (tstamp 71d46579-4193-42ec-89ac-975c2dc5b827))
   (gr_line (start 128 109) (end 128 84) (layer "Edge.Cuts") (width 0.2) (tstamp d54a644c-537d-4f1f-9fc4-9695977dbd9f))
