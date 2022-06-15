@@ -1,18 +1,4 @@
-20253194838118058
-70AAJ-6-M0G
-BOURNS_70AAJ-6-M0G
-
-
-0
-12
-12
-70AAJ-6-M0G
-ModuleConnector
-
-
-0
-6
-6
+20256504821612970
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -50210,13 +50196,6 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
-DW01A
-SOT23-6
-
-
-0
-6
-6
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -52128,13 +52107,6 @@ ESP3212
 0
 31
 30
-FS8205A
-SOP65P640X120-8N
-
-
-0
-8
-8
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -60311,6 +60283,55 @@ net tie
 0
 4
 4
+OSSM_MKIII
+BOURNS_70AAJ-6-M0G
+
+
+0
+12
+12
+OSSM_MKIII
+ModuleConnector
+
+
+0
+6
+6
+OSSM_MKIII
+PSON65P250X250X100-8N
+2.5 mm x 2.5 mm x 0.93 mm metal lid LGA
+
+0
+8
+8
+OSSM_MKIII
+SON60P400X270X110-11N
+
+
+0
+11
+11
+OSSM_MKIII
+SOP65P640X120-8N
+
+
+0
+8
+8
+OSSM_MKIII
+SOT23-6
+
+
+0
+6
+6
+OSSM_MKIII
+TP4056_SOP-8-PP
+8-Lead Plastic SOP-8-PP
+SSOP 0.50 exposed pad
+0
+9
+9
 OptoDevice
 ADNS-9800
 Laser Gaming Sensor ADNS-9800
@@ -85826,13 +85847,6 @@ varistor SIOV
 0
 2
 2
-lib
-TP4056_SOP-8-PP
-8-Lead Plastic SOP-8-PP
-SSOP 0.50 exposed pad
-0
-9
-9
 usb_footprint
 tp4056_USB_Micro-B_Molex_47346-0001_fix
 Micro USB B receptable with flange, bottom-mount, SMD, right-angle (http://www.molex.com/pdm_docs/sd/473460001_sd.pdf)
