@@ -382,11 +382,11 @@
   },
   "pcbnew": {
     "last_paths": {
-      "gencad": "",
+      "gencad": "The_good_watch.cad",
       "idf": "",
       "netlist": "The_good_watch.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "The_good_watch.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
