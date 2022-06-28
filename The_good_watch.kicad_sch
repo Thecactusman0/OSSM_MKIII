@@ -3765,10 +3765,10 @@
     (uuid e9bccd8a-9c7c-402d-8305-ae812bfa3850)
   )
 
-  (global_label "VCC_IN" (shape passive) (at 209.55 41.91 0) (fields_autoplaced)
+  (global_label "VCC_IN" (shape passive) (at 217.17 41.91 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 06e38860-a6f3-434b-9fab-825fc7584b3c)
-    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 218.4945 41.8306 0)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 226.1145 41.8306 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -5572,6 +5572,21 @@
     (pin "6" (uuid 42920bb5-d16b-4581-9888-0eb06d44bfa1))
   )
 
+  (symbol (lib_id "Device:D_Schottky") (at 213.36 41.91 180) (unit 1)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (uuid 9d054268-850d-4bb1-849a-a7f37dccd552)
+    (property "Reference" "D?" (id 0) (at 213.6775 35.56 0))
+    (property "Value" "D_Schottky" (id 1) (at 213.6775 38.1 0))
+    (property "Footprint" "" (id 2) (at 213.36 41.91 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (id 3) (at 213.36 41.91 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 0d71b191-056c-4663-a1ae-783198b22ea4))
+    (pin "2" (uuid b7f38bbc-a68e-48a7-bebe-09f075062627))
+  )
+
   (symbol (lib_id "power:+3.3V") (at 17.6784 44.4246 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 9e8e84ac-fd08-462f-bd31-c1d5795baa44)
@@ -6319,6 +6334,9 @@
     )
     (path "/d13f01cd-eb4f-49a3-9fac-4e25cc2e8eb2"
       (reference "D4") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_0603_1608Metric")
+    )
+    (path "/9d054268-850d-4bb1-849a-a7f37dccd552"
+      (reference "D?") (unit 1) (value "D_Schottky") (footprint "")
     )
     (path "/94868651-0943-45d2-80cb-19057554eb97"
       (reference "IC1") (unit 1) (value "DW01A") (footprint "DW01A:SOT23-6")
