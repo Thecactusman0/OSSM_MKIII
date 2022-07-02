@@ -389,7 +389,7 @@
       "gencad": "The_good_watch.cad",
       "idf": "",
       "netlist": "The_good_watch.net",
-      "specctra_dsn": "",
+      "specctra_dsn": "The_good_watch.dsn",
       "step": "The_good_watch.step",
       "vrml": ""
     },
